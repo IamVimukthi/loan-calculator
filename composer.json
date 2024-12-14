@@ -1,0 +1,26 @@
+{
+    "name": "iamvimukthi/loancalculator",
+    "description": "A simple Laravel package for calculating loans, including EMI, interest, and total payments. Perfect for financial apps with easy integration and customizable options.",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iamvimukthi\\Loancalculator\\": "src/",
+            "Iamvimukthi\\Loancalculator\\Facades\\": "src/Facades/"
+        }
+    },
+    "extra":{
+        "laravel":{
+            "providers": [
+                   "Iamvimukthi\\Loancalculator\\LoanCalculatorService"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Vimukthi Guruge"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
