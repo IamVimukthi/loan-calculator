@@ -15,23 +15,10 @@
 <h2>Installation</h2>
 
 <h3>Step 1: Install via Composer</h3>
-<p>Add the package repository to your <code>composer.json</code>:</p>
-
-<pre><code>
-"repositories": [
-    {
-        "type": "path",
-        "url": "packages/iamvimukthi/loancalculator",
-        "options": {
-            "symlink": true
-        }
-    }
-],
-</code></pre>
 
 <p>Run the installation command:</p>
 
-<pre><code>composer require iamvimukthi/loancalculator dev-main</code></pre>
+<pre><code>composer require iamvimukthi/loancalculator</code></pre>
 
 <h3>Step 2: (Optional) Publish Configuration</h3>
 <p>To publish the configuration file (if required):</p>
