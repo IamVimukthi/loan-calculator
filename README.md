@@ -18,7 +18,7 @@
 
 <p>Run the installation command:</p>
 
-<pre><code>composer require iamvimukthi/loancalculator</code></pre>
+<pre><code>composer require iamvimukthi/loancalculator:1.0.0</code></pre>
 
 <h3>Step 2: (Optional) Publish Configuration</h3>
 <p>To publish the configuration file (if required):</p>
