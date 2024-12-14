@@ -163,4 +163,4 @@ class LoanCalculatorTest extends TestCase
 <hr>
 
 <h2>Contact</h2>
-<p>For any issues or suggestions, please create an issue on the <a href="https://github.com/loan-calculator/issues">GitHub Issues</a> page.</p>
+<p>For any issues or suggestions, please create an issue on the <a href="https://github.com/IamVimukthi/loan-calculator/issues">GitHub Issues</a> page.</p>
