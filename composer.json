@@ -21,6 +21,6 @@
             "name": "Vimukthi Guruge"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
