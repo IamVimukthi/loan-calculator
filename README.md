@@ -50,9 +50,9 @@ echo "Total Interest: " . number_format($loanDetails['TotalInterest'], 2) . "\n"
 <p><b>Output Example:</b></p>
 
 <pre><code>
-Monthly EMI: 9432.26
-Total Cost of Loan: 566136.45
-Total Interest: 66136.45
+Monthly EMI: 8,680.78 
+Total Cost of Loan: 572,931.50 
+Total Interest: 72,931.50
 </code></pre>
 
 <h3>2. <b>Generate Payment Schedule</b></h3>
@@ -69,8 +69,8 @@ foreach ($schedule as $payment) {
 <p><b>Output Example:</b></p>
 
 <pre><code>
-Month-Year: Jan-2025, Principal: 9361.39, Interest: 4173.21, Total: 9432.26, Balance: 490638.61
-Month-Year: Feb-2025, Principal: 9388.67, Interest: 4114.61, Total: 9432.26, Balance: 481249.94
+Month-Year: Dec-2024, Principal: 6,597.45, Interest: 2,083.33, Total: 8,680.78, Balance: 493,402.55
+Month-Year: Jan-2025, Principal: 6,624.94, Interest: 2,055.84, Total: 8,680.78, Balance: 486,777.62
 ...
 </code></pre>
 
